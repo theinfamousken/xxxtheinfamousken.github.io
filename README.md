@@ -1,2 +1,2 @@
 # theinfamousken.github.io
-hentai is life
+hentai is life loli's are awesome
