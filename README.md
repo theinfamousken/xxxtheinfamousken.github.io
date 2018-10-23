@@ -16,13 +16,14 @@ The ninja ranking
   <li>S-Class</li>
 </ol>
 My Known Jutsu
-
-Fire Release: Dragon Fire Technique
-Fire Release: Great Dragon Fire Technique
-Fire Release: Great Fireball Technique
-Fire Release: Phoenix Sage Fire Technique
-Genjutsu: Sharingan
-Chidori
-Chidori Current
-Chidori Senbon
-Chidori Sharp Spear
+<ul>
+  <li>Fire Release: Dragon Fire Technique</li>
+  <li>Fire Release: Great Dragon Fire Technique</li>
+  <li>Fire Release: Great Fireball Technique</li>
+  <li>Fire Release: Phoenix Sage Fire Technique</li>
+  <li>Genjutsu: Sharingan</li>
+  <li>Chidori</li>
+  <li>Chidori Current</li>
+  <li>Chidori Senbon</li>
+  <li>Chidori Sharp Spear</li>
+</ul>
